@@ -10,9 +10,7 @@ dependencies:
   - seaborn
   - librosa
   - scikit-learn
-  - soundfile
   - streamlit
-  - pyaudio
   - pytorch
   - torchaudio
   - jupyter
