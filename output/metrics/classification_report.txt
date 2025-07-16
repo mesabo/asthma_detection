@@ -1,0 +1,13 @@
+Test Accuracy: 77.31%
+
+              precision    recall  f1-score   support
+
+   Bronchial       0.87      0.67      0.76        82
+      asthma       0.69      0.81      0.75        74
+        copd       0.87      0.83      0.85        75
+     healthy       0.71      0.87      0.78        87
+   pneumonia       0.78      0.69      0.73        83
+
+    accuracy                           0.77       401
+   macro avg       0.79      0.77      0.77       401
+weighted avg       0.78      0.77      0.77       401
