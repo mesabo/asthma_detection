@@ -1,0 +1,12 @@
+/data/
+/output/mps/time_series/transformer/visuals/training/
+/output/mps/time_series/transformer/results/training/
+/output/mps/time_series/transformer/models/training/
+/output/mps/time_series/transformer/metrics/training/
+/output/mps/time_series/transformer/logs/
+/output/mps/electricity/tsformer/dm128_nh8_dff256_el4_dl4_drop0.1_lws2/visuals/testing/daily/batch16/epoch10_lookback60_forecast7/adam_0.0001_0.001/attention_maps/data/
+/output/cpu/
+/output/mps/electricity/tsformer/dm128_nh8_dff256_el4_dl4_drop0.1_lws2/visuals/testing/daily/batch16/epoch10_lookback60_forecast7/adam_0.0001_0.001/attention_maps/
+/data/original/
+/data/processed/
+/output/
